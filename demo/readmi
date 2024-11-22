@@ -1,1 +1,1 @@
-
+In this fragment of our demonstration, the operator sends the drone a flight task, the drone goes to the desired target and, when it reaches it, informs the operator about it. The operator was hacked and the drone is sent a task to fly to a neighboring building at the specified coordinates, but the drone database knows that flight is prohibited according to the sent coordinates, the drone informs the operator that flight is impossible. The operator returns the drone to the base.
